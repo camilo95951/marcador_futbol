@@ -37,6 +37,13 @@ bReset.addEventListener('click', function() {
 });
 
 puntajeGanar.addEventListener('click', function() {
+<<<<<<< HEAD
+  (puntajeGanar.innerText = 9;
+=======
   puntajeGanar.innerText = 9;
+<<<<<<< HEAD
+>>>>>>> 5469b286d929187e12ea898719bbb406e5d06879
+=======
+>>>>>>> 5469b286d929187e12ea898719bbb406e5d06879
   gameOver = false;
 });
