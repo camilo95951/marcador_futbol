@@ -29,7 +29,7 @@ bEquipo2.addEventListener('click', function() {
 bReset.addEventListener('click', function() {
   puntajeEquipo1.innerText = 0;
   puntajeEquipo2.innerText = 0;
-  puntajeGanar.innerText = Text;
+  puntajeGanar.innerText = 9;
   puntajeEquipo1.classList.remove('ganador');
   puntajeEquipo2.classList.remove('ganador');
   puntajeGanar.classList.remove('ganador');
@@ -37,6 +37,6 @@ bReset.addEventListener('click', function() {
 });
 
 puntajeGanar.addEventListener('click', function() {
-  puntajeGanar.innerText = Text;
+  puntajeGanar.innerText = 9;
   gameOver = false;
 });
