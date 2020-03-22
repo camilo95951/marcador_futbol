@@ -33,3 +33,8 @@ bReset.addEventListener('click', function() {
   puntajeEquipo2.classList.remove('ganador');
   gameOver = false;
 });
+
+puntajeGanar.addEventListener('click', function() {
+  puntajeGanar.innerText = 9;
+  gameOver = true;
+});
