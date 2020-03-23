@@ -8,7 +8,6 @@ Materia: Codificación
 Autores:
 
 - Camilo Andres Salgado Martinez
-- Richard Alexander Cortázar Forero
 - William Alexander Gonzalez Becerra
 - Jose Francisco Peñaloza Silva
 
